@@ -25,5 +25,19 @@ This project is an AI-powered object detection system that identifies and classi
 1. **Clone the repository**
  
    git clone https://github.com/VinayDhiman001/Object-Detection.git
+   cd Object-Detection
+
+   pip install -r requirements.txt
+
+   streamlit run app.py
+
 2. **Dataset link**
+   
+    Custom-labeled dataset with YOLOv8 format
+    Classes: ['human', 'vehicle', 'animal']
     https://drive.google.com/drive/folders/1zE2xzAVjj7U6AJQfwP11sBAWeGL9aMJ8?usp=sharing
+
+3.**Author**
+    Vinay Dhiman
+    LinkedIn - https://www.linkedin.com/in/vinaydhiman133/
+
