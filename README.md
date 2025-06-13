@@ -23,6 +23,7 @@ This project is an AI-powered object detection system that identifies and classi
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
-   ```bash
+ 
    git clone https://github.com/VinayDhiman001/Object-Detection.git
-   
+2. **Dataset link**
+    https://drive.google.com/drive/folders/1zE2xzAVjj7U6AJQfwP11sBAWeGL9aMJ8?usp=sharing
