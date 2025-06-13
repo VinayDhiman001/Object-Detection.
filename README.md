@@ -37,7 +37,8 @@ This project is an AI-powered object detection system that identifies and classi
     Classes: ['human', 'vehicle', 'animal']
     https://drive.google.com/drive/folders/1zE2xzAVjj7U6AJQfwP11sBAWeGL9aMJ8?usp=sharing
 
-3.**Author**
+ 3. **Author**
+    
     Vinay Dhiman
     LinkedIn - https://www.linkedin.com/in/vinaydhiman133/
 
